@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Android, Python, Docker**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **a lot of things in the CS50 course.**
 
 - 📝 I regularly write articles on [my website](https://afidalgo.fr/)
 <!--Intro end-->
