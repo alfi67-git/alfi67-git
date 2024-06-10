@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,docker,figma,github,html,linux,md,mysql,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,linux,github,html,css,mysql,md,postman,py,vscode,docker,figma,&perline=14" />
   </a>
 </p>
 
@@ -63,13 +63,13 @@
 </p>
 
 
-<!--profile visit count-->
+<!--profile visit count
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
+-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -77,7 +77,7 @@
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+Last Edited on: 11/06/2024
 
 <!--
 **alfi67-git/alfi67-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
