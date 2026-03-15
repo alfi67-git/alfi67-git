@@ -17,19 +17,13 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">I do some things</h2></summary>
   </ul>
-</div>
-
+</div> -->
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Android, Python, Docker**
-
-- 🌱 I’m currently learning **a lot of things in the CS50 course.**
-
-- 📝 I regularly write articles on [my website](https://afidalgo.fr/)
 <!--Intro end-->
 
 
